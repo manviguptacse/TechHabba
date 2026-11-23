@@ -1,4 +1,4 @@
-# BhashaShield Benchmark Dataset
+# Vaksha Benchmark Dataset
 
 ## Purpose
 This dataset is used to compare how the model responds to semantically equivalent prompts written in English, Kannada script, and Kannada transliteration (Kanglish).
